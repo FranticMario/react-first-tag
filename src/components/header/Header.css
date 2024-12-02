@@ -1,0 +1,25 @@
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #cdcdff;
+}
+
+.day-night-icon {
+    width: 24px;
+    height: 24px;
+    fill: #cdcdff;
+}
+
+.nav__link {
+
+    color: #cdcdff;
+}

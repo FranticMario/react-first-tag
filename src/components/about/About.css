@@ -1,0 +1,17 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    max-width: 800px;
+    text-align: center;
+}
+
+.about__title {
+    font-size: 3.0rem;
+}
+
+.about__name {
+    color: #939EDB;
+}
+
